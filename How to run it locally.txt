@@ -1,0 +1,21 @@
+Based on the codebase, this is a Node.js/React project. To run it locally:
+
+First, install dependencies:
+npm install
+The project is already configured to run with:
+npm run dev
+This will:
+
+Start the Express backend server on port 5000
+Launch the Vite dev server for the React frontend
+Enable hot module reloading
+The project should automatically open in your browser. If not, you can access it at: http://0.0.0.0:5000
+
+Note: The project uses:
+
+PostgreSQL database (configured via DATABASE_URL environment variable)
+Ethers.js for Web3 functionality
+Express.js backend
+React + TypeScript frontend
+Tailwind CSS for styling
+The development server is already running via the "Start application" workflow. You can simply click the "Run" button at the top to restart it if needed.

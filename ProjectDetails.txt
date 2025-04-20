@@ -1,0 +1,27 @@
+The project combines traditional agriculture with blockchain technology to create a decentralized ecosystem for farmers and agricultural stakeholders.
+Key Features:
+
+1.Marketplace
+Buy/sell agricultural products
+NFT-based product verification
+Smart contract powered transactions
+2.Barter System
+Direct product exchange
+Peer-to-peer trading
+Smart contract escrow
+3.Liquidity Pools
+Yield farming for agricultural assets
+DeFi integration for farmers
+Staking mechanisms
+4.DAO Governance
+Community-driven decisions
+Proposal system
+Voting mechanisms
+5.Education Module
+Web3 learning resources
+Agricultural best practices
+Interactive tutorials
+6.Microjobs Platform
+Agricultural task marketplace
+Skill-based matching
+Smart contract payments

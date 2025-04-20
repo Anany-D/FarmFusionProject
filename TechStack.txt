@@ -1,0 +1,30 @@
+Frontend
+React with TypeScript
+Vite as build tool
+TailwindCSS for styling
+Shadcn/UI for UI components
+React Query for data fetching
+Wouter for routing
+Framer Motion for animations
+Backend Stack:
+
+Node.js with Express
+TypeScript
+PostgreSQL with Drizzle ORM
+WebSocket support
+Web3 Stack:
+
+Ethers.js for Ethereum interaction
+Smart Contracts written in Solidity
+Arbitrum network integration (contracts in /contracts/arbitrum/)
+Web3 specific contracts:
+FarmFusionDAO.sol for governance
+FarmFusionLiquidityPool.sol for DeFi
+FarmFusionMarketplace.sol for NFT/marketplace
+FarmToken.sol for token implementation
+Development Tools:
+
+ESBuild for server-side bundling
+TSX for TypeScript execution
+Drizzle Kit for database migrations
+Various React hooks for Web3 integration
